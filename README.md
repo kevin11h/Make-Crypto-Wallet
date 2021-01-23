@@ -1,3 +1,8 @@
+# 2 - Step Victory:
+1. Python KIVY ANdroid
+2. Python Wallet
+3. Combine ++ ^^
+
 # https://github.com/morfin/bitcoin_wallet_tutorial_with_py https://pypi.org/project/bitcoinlib/ Make-Crypto-Wallet
 https://github.com/kevin11h/dat.wallet 
 
