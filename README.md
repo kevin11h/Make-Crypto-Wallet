@@ -25,3 +25,6 @@ https://www.freecodecamp.org/news/create-cryptocurrency-using-python/
 https://hackernoon.com/how-to-build-a-minimalistic-ethereum-wallet-in-python-part-1-rr4j32dp
 
 https://www.packtpub.com/product/hands-on-bitcoin-programming-with-python/9781789537000
+
+
+https://algotrading101.com/learn/binance-python-api-guide/
